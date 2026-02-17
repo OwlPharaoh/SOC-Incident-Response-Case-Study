@@ -37,6 +37,8 @@ iii] Sysmon (Olaf configuration)
 
 iv] PowerShell Logging enabled and integrated into Wazuh Agent
 
+v] Windows Server 2025 (Domain Controller)
+
 # Alert Intake
 
 ### Alert Name: Suspicious Encoded PowerShell Execution
