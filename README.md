@@ -44,6 +44,7 @@ v] Windows Server 2025 (Domain Controller)
 ### Alert Name: Suspicious Encoded PowerShell Execution
 ### Source: Wazuh (PowerShell Logging)
 Relevant Event IDS Observed:
+
 i] 4103 - Powershell Module Logging
 
 ii] 11 - Sysmon FileCreate
