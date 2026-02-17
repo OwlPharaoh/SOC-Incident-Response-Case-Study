@@ -45,7 +45,9 @@ v] Windows Server 2025 (Domain Controller)
 ### Source: Wazuh (PowerShell Logging)
 Relevant Event IDS Observed:
 i] 4103 - Powershell Module Logging
+
 ii] 11 - Sysmon FileCreate
+
 iii] 1 - Sysmon ProcessCreate (local only; filtered in Wazuh depending on config)
 ### Host: Win11.ad.wasteman.xyz
 ### User: kaguero
