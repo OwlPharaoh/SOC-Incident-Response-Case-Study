@@ -29,17 +29,13 @@ vi] Determine whether escalation was warranted
 
 # Lab Environment
 
-i] Windows 11 (Endpoint)
+i] Windows 11 (Endpoint) with Wazuh agent installed
 
-ii] Windows Server 2025 (Domain Controller)
+ii] Wazuh 4.14 (SIEM)
 
-iii] Kali Linux (Lab tooling)
+iii] Sysmon (Olaf configuration)
 
-iv] Wazuh 4.14 (SIEM)
-
-v] Sysmon (Olaf configuration)
-
-vi] PowerShell Module Logging enabled
+iv] PowerShell Logging enabled and integrated into Wazuh Agent
 
 # Alert Intake
 
